@@ -1,0 +1,7 @@
+.venv
+modelos/
+.vscode
+audios
+salidas
+__pycache__/
+*.pyc

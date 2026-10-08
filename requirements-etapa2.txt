@@ -1,0 +1,11 @@
+# Perfil alternativo ligero para CPU (PyTorch 2.8.0 sin torchcodec).
+# Para la instalación estándar completa del proyecto, usa requirements.txt.
+torch==2.8.0
+torchaudio==2.8.0
+coqui-tts==0.27.5
+transformers==4.57.6
+numpy==1.26.4
+librosa==0.11.0
+matplotlib==3.10.8
+soundfile==0.13.1
+Flask==3.1.3
